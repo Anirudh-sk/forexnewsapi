@@ -1,0 +1,31 @@
+{
+  "name": "forexnews",
+  "version": "1.0.0",
+  "description": "scrapes forex factory and gives news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anirudh-sk/forexnewsapi.git"
+  },
+  "keywords": [
+    "forex",
+    "factory",
+    "news",
+    "api",
+    "trading"
+  ],
+  "author": "K Sai Anirudh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anirudh-sk/forexnewsapi/issues"
+  },
+  "homepage": "https://github.com/Anirudh-sk/forexnewsapi#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.1"
+  }
+}
